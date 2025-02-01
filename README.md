@@ -1,4 +1,8 @@
 # content_translate_summary
+This program is a simple AI agent program that summarizes YouTube content using AI. 
+Various models can be used, and this uses DeepSeek-R1 model.
+
+<img src="image/translate_summary.png" alt="work flow" width="300" height="200">
 
 ## Make environment & install packages
 
